@@ -2,9 +2,12 @@
 
 A comprehensive web application for tracking stocks, managing investment portfolios, and analyzing market data.
 
-**Continues Integration is in-progress, no responsibility for any issues, caused by the code. it's a responsibility of a person on using the code.**
+# 🛠 Continuous Integration in Progress
 
-**application contributions are welcome**
+Please note that Continuous Integration is currently underway ⚙️.  
+💡 While the code is open for use, users are advised to proceed with caution—issues arising from its use fall under your responsibility.
+
+📢 **Contributions are encouraged!** Join the effort to enhance the application by submitting a pull request. Your ideas and collaboration are always appreciated 🙌.
 
 ## Features
 
