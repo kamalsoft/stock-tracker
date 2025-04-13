@@ -1,6 +1,7 @@
 # Stock Tracker Application
 
 A comprehensive web application for tracking stocks, managing investment portfolios, and analyzing market data.
+**Continues Integration is in-progress**
 
 ## Features
 
