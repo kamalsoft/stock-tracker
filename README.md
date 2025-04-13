@@ -2,6 +2,10 @@
 
 A comprehensive web application for tracking stocks, managing investment portfolios, and analyzing market data.
 
+**Continues Integration is in-progress, no responsibility for any issues, caused by the code. it's a responsibility of a person on using the code.**
+
+**application contributions are welcome**
+
 ## Features
 
 - **Stock Search & Analysis**: Search for stocks and view detailed information including price history, key metrics, and financial data
