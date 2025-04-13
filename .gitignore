@@ -6,3 +6,7 @@
 node_modules
 /.vs/stock-tracker/FileContentIndex
 /.vs/stock-tracker/v17
+/package-lock.json
+/.vs/slnx.sqlite
+/client/package-lock.json
+/.vs/slnx.sqlite-journal
